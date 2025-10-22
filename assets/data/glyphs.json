@@ -1,0 +1,8 @@
+[
+  { "id": "intro", "real": "ENTER TEMPLE", "glyphs": ["ꖦꗃꕥ", "ᚷᛃᛞ", "𐌂𐌂𐌂", "⛧⸸⛧", "シ卍ネ", "◬◈◬"] },
+  { "id": "triad", "real": "THE DARK TRIAD", "glyphs": ["⎔⟟⟊", "𐍉𐍊𐌼", "卄丶乂", "₪✠₪", "ᚾᛁᛟ", "◬△◬"] },
+  { "id": "library", "real": "LIBRARY", "glyphs": ["◬◩◪", "ϞϟϞ", "₪₪₪", "卐卍卐", "☿☌☍", "⟁⟊⟁"] },
+  { "id": "board", "real": "BOARD", "glyphs": ["☬☬☬", "⋇⋇⋇", "₪₪₪", "𓆣𓆣𓆣", "卐卐卐", "◈◈◈"] },
+  { "id": "tributes", "real": "TRIBUTES", "glyphs": ["₪卍₪", "✷✶✷", "⟁⟁⟁", "𐌑𐌊𐌋", "ψψψ", "◊◊◊"] },
+  { "id": "contact", "real": "CONTACT", "glyphs": ["卐☍卐", "◬◈◬", "𐌂𐌄𐌅", "☍☌☍", "✠✠✠", "⎔⎔⎔"] }
+]
